@@ -1,0 +1,9 @@
+Allocated Elements,ReqIFName,ReqIFText,requirementType,Parent,Status,Priority
+,,,,,,
+Functional,,,,,,
+  ,Comanda deplasare,"""<p>Pilotul trebuie sa poata controla deplasarea&nbsp;Car Kit (Robot).</p>
+""",Functional,,Draft,High
+  ,Transmisie comanda deplasare,"""<p>Smartphone-ul trebuie sa transmita video pe baza deplasarii Car Kit.</p>
+""",Functional,,Draft,High
+  ,Realizare deplasare,"""<p>Car Kit (Robot) trebuie sa aiba capacitatea de a se deplasa.</p>
+""",Functional,,Draft,High
